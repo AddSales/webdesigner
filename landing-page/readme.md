@@ -35,11 +35,17 @@ O formulário desta página deve conter os campos
 - **Email**
 - **Telefone**
 
-A sua missão é criar uma Landing page com um design bonito e atraente para os visitantes.
+A sua missão é criar uma Landing page com um design bonito e atraente para os visitantes. Atenção, você deve entregar o arquivo do photoshop e exportar também as imagens do resultado final nas resoluções solicitadas.
 
 *Os textos da página podem ser [lorem ipsum](https://br.lipsum.com/) mas caso tenha vontade pode criar os textos também.*
 
+## Extra (Desafio opcional)
+Todo o desafio deve ser feito apenas no photoshop porém se você quer dar um passo além e ter mais chance de ser contratado, vamos lá!
+
+- Utilize HTML e CSS para dar vida ao seu projeto no photoshop.
+- Você pode utilizar qualquer framework CSS que desejar (ou não utilizar nenhum)
+
 ## Dúvidas?
-É só mandar um e-mail para <guilherme.assemany@actualsales.com>.
+É só mandar um e-mail para <jobs@addsales.com>.
 
 Obrigado e boa sorte!

@@ -1,16 +1,16 @@
-# Venha trabalhar na ActualSales!
+# Venha trabalhar na AddSales!
 
 ## A Empresa
 
-A ActualSales é uma empresa de marketing digital focada em geração de leads através de Landing Pages.
+A AddSales é uma empresa de marketing digital focada em geração de leads através de Landing Pages.
 Relaxa, nós também não sabíamos o que isso significa ;)
 
 ## Vagas
 ---
 ### Web Designer
-A ActualSales busca designer para criação de layouts mobile e desktop em campanhas de marketing digital, além de material de apoio para redes sociais e newsletters. Somos uma empresa portuguesa e atuamos no Brasil, Argentina, Chile, Colômbia e outros. 
+A AddSales busca designer para criação de layouts mobile e desktop em campanhas de marketing digital, além de material de apoio para redes sociais e newsletters. Somos uma empresa portuguesa e atuamos no Brasil, Argentina, Chile, Colômbia e outros. 
 
-Faz parte de ser designer na ActualSales: 
+Faz parte de ser designer na AddSales: 
 
 - Pesquisar concorrência, buscar referências e sugerir soluções criativas para nossas campanhas; 
 
@@ -32,7 +32,7 @@ Faz parte de ser designer na ActualSales:
 As instruções para se candidatar estão localizadas na pasta [landing-page](landing-page/readme.md) desse mesmo repositório.
 
 #### Dúvidas
-Para dúvidas ou mais informações, fique à vontade para nos contactar através do email <vagas-ti@actualsales.com.br>.
+Para dúvidas ou mais informações, fique à vontade para nos contactar através do email <jobs@addsales.com>.
 
 
 ## Obrigado e boa sorte!
