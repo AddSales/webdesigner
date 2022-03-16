@@ -21,9 +21,9 @@ Temos algumas referências para que você saiba o que esperamos do seu teste:
 * [Landing Page 4](referencias/mi-maestria.png)
 
 ### Sobre o teste
-Nossa equipe de negócios solicitou o desenvolvimento de uma landing page para o cliente CarFix que precisa de leads para o seguro de automóveis da empresa oferecido pela empresa.
+Nossa equipe de negócios solicitou o desenvolvimento de uma landing page para o cliente CarFix que precisa de leads para o seguro de automóveis oferecido pela empresa.
 
-O cliente forneceu apenas duas versões da logo:
+O cliente forneceu apenas duas versões do logo:
 * [Versão 1](carfix/logo-carfix-blue.png)
 * [Versão 2](carfix/logo-carfix-white.png)
 
