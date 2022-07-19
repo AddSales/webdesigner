@@ -4,7 +4,7 @@
 Para avaliar um pouco do seu conhecimento técnico e a sua forma de resolver problemas, propomos um breve desafio.
 O desafio consiste em criar o layout de uma landing-page em três formatos diferentes que equivalem a sua responsividade:
 
-- 767px para o mobile;
+- 360px para o mobile;
 - 1024px para o tamanho intermediário;
 - 1920px para o desktop;
 
