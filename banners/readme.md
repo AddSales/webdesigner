@@ -29,6 +29,7 @@ Logo do Cliente [baixe aqui](john-e-cia/logo-john-e-cia.png)
 Texto: As incríveis e incomparáveis trufas Hazel, você só encontra aqui.
 
 Preço: R$54,90
+
 CTA: Aproveite
 
 
