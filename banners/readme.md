@@ -36,10 +36,10 @@ CTA: Aproveite
 Imagens do produto:
 
 * [Imagem 1](produto/imagem-trufa-1.jpg)
-* [Imagem 2](produto/imagem-trufa-2.jpg))
-* [Imagem 3](produto/imagem-trufa-3.jpg))
-* [Imagem 4](produto/imagem-trufa-4.jpg))
-* [Imagem 5](produto/imagem-trufa-5.jpg))
+* [Imagem 2](produto/imagem-trufa-2.jpg)
+* [Imagem 3](produto/imagem-trufa-3.jpg)
+* [Imagem 4](produto/imagem-trufa-4.jpg)
+* [Imagem 5](produto/imagem-trufa-5.jpg)
 
 O produto e as imagens acima são fictícios, portanto, caso prefira, você pode utilizar outras imagens para simular o produto (desde que seja trufa de chocolate).
 O conteúdo dos banners é o mesmo, você só precisará adaptar para os formatos solicitados.
